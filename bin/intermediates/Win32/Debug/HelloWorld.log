@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\bin\intermediates\Win32\Debug\)包含从另一个项目(Address_Book_Management_System.vcxproj, Address_book_management_system.vcxproj, Speech_Contest_Management_System.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Log.cpp
+  HelloWorld.vcxproj -> C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\bin\Win32\Debug\HelloWorld.exe

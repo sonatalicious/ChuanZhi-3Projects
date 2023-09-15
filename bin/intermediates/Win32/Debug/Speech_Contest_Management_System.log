@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\bin\intermediates\Win32\Debug\)包含从另一个项目(Address_Book_Management_System.vcxproj, Address_book_management_system.vcxproj, HelloWorld.vcxproj, Workers_Management_System.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  speaker.cpp
+  speechManager.cpp
+C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\Speech_Contest_Management_System\src\speechManager.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\Speech_Contest_Management_System\src\speechManager.cpp(344,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\numeric(34,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\numeric(43,17): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\Speech_Contest_Management_System\src\speechManager.cpp(187,21): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+  main.cpp
+  正在生成代码...
+  Speech_Contest_Management_System.vcxproj -> C:\coding\HelloWorld_first_touch\C++_Beginner_Projects\bin\Win32\Debug\Speech_Contest_Management_System.exe
