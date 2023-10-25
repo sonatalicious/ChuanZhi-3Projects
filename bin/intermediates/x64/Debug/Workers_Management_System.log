@@ -1,10 +1,5 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
 C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(C:\coding\ChuanZhi-3projects\bin\intermediates\x64\Debug\)包含从另一个项目(HelloWorld.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  boss.cpp
   employee.cpp
-  manager.cpp
-  main.cpp
-  test.cpp
-  正在生成代码...
   Workers_Management_System.vcxproj -> C:\coding\ChuanZhi-3projects\bin\x64\Debug\Workers_Management_System.exe
